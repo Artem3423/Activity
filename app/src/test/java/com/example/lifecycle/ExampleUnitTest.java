@@ -1,4 +1,4 @@
-package com.example.activity;
+package com.example.lifecycle;
 
 import org.junit.Test;
 
